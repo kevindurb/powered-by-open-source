@@ -1,5 +1,6 @@
 # Powered By Open Source
 This is a collection of software that can be used to power an engineering team.
+Every project referenced is open source and entirely self host-able.
 
 ## Hosted Version Control
 - [Gitea](https://gitea.io/en-us/)
